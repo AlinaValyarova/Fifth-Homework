@@ -13,6 +13,7 @@ namespace homework1
         {
             ex3();
         }
+        //djl
 
         public struct Student
         {
